@@ -1,8 +1,8 @@
 <img src = "https://img.freepik.com/premium-vector/pixel-art-sky-background-with-clouds-cloudy-blue-sky-vector-8bit-game-white-background_360488-614.jpg?w=2000"  width = "100%" margin = "0 auto">
 
 <h1 >Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Brennan Freeze</h1>
-- 🔭 I’m currently working on [QC.py](https://github.com/QCpyDevs/QCpy) <br><br>
-- 🌱 I’m currently learning  React.js, Node.js, Django, PostgreSQL, C#, and advanced Python<br><br>
+- 🔭 I’m currently working on <a href="https://github.com/QCpyDevs/QCpy">QC.py</a> <br>
+- 🌱 I’m currently learning  React.js, Node.js, Django, PostgreSQL, C#, and advanced Python<br>
 
 
 <div>
